@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="UserStyles" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="iconGithub">
+        <item name="android:layout_width">114dp</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:layout_marginStart">15dp</item>
+        <item name="android:layout_marginTop">25dp</item>
+    </style>
+</resources>
